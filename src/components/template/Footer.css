@@ -1,0 +1,15 @@
+.footer{
+    background-color: #053B50;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 810px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+h1.footer{
+    margin-top: 15px;
+    color: whitesmoke;
+    font-size: 10px;
+}
